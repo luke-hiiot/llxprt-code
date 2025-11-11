@@ -1,0 +1,9 @@
+packages:
+  - 'packages/*'
+  - 'integration-tests'
+  - 'scripts'
+  - 'dev-docs'
+  - 'eslint-rules'
+  - 'project-plans'
+  - 'shell-scripts'
+  - 'test-scripts'
